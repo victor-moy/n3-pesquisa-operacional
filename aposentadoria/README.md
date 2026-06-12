@@ -1,21 +1,15 @@
 # Simulação de Monte Carlo — Aposentadoria
 
-Trabalho de Pesquisa Operacional — **Pessoa 2: Aposentadoria**
-
-> Pasta reservada para a simulação da Pessoa 2. Coloque aqui o código,
-> os resultados e os gráficos, seguindo a mesma estrutura da pasta
-> `viagem-internacional/`.
+Trabalho de Pesquisa Operacional — Jhessica
 
 ## Objetivo
 
-Simular o crescimento de um investimento mensal ao longo de **30 anos**,
-variando aleatoriamente a **taxa de rendimento** e a **inflação**, com pelo
-menos **10.000 simulações**, para determinar quanto uma pessoa precisa guardar
-por mês hoje para atingir uma renda de **R$ 3.000 mensais aos 60 anos**.
+Simular o crescimento de um investimento mensal de **R$ 1.000** ao longo de **30 anos** para avaliar a viabilidade financeira da aposentadoria. A simulação considera a volatilidade de mercado através de variações aleatórias na **taxa de rendimento**, na **inflação** e no **comportamento de aporte**, rodando **100.000 simulações** via Método de Monte Carlo. 
 
-## Estrutura sugerida
+O intuito é determinar a probabilidade do investidor atingir um patrimônio nominal de **R$ 1.000.000** e garantir uma renda equivalente a pelo menos **R$ 5.000 mensais** aos 60 anos (utilizando a regra de retirada de 4% a.a.).
 
-- `simulacao_aposentadoria.py` — código da simulação
-- `resultados.txt` — estatísticas geradas
-- `grafico_*.png` — gráficos para a apresentação
-- Este `README.md` — atualizar com o modelo, as distribuições e os resultados
+## Estrutura do Projeto
+
+- `simulacao_aposentadoria.py` — Código em Python com a lógica e geração de variáveis aleatórias.
+- `simulacao_monte_carlo_aposentadoria.png` — Dashboard de gráficos gerado (distribuição, cenários P10/P50/P90 e sensibilidade).
+- Este `README.md` — Descrição do modelo acadêmico, premissas estatísticas e análise dos resultados.
