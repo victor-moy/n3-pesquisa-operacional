@@ -8,10 +8,10 @@ gráficos próprios.
 | Pasta | Tema | Responsável |
 |---|---|---|
 | [`viagem-internacional/`](viagem-internacional/) | Custo total de uma viagem internacional (passagem, hospedagem e câmbio) | Victor |
-| [`aposentadoria/`](aposentadoria/) | Crescimento de investimento mensal em 30 anos (rendimento e inflação) | Pessoa 2 |
+| [`aposentadoria/`](aposentadoria/) | Crescimento de investimento mensal em 30 anos (rendimento e inflação) | Jhessica |
 
 A introdução teórica, os slides e a conclusão comparando as duas simulações
-ficam por conta da Pessoa 3.
+ficam por conta da Laíza.
 
 ## Como rodar as simulações
 
