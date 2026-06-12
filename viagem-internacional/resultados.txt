@@ -1,0 +1,17 @@
+SIMULAÇÃO DE MONTE CARLO — VIAGEM INTERNACIONAL (7 noites, EUA)
+Número de simulações: 10.000
+
+Custo médio:            R$ 10.436,44
+Custo mais provável*:   R$ 10.349,40   (*mediana)
+Desvio padrão:          R$ 1.515,06
+
+Melhor cenário (mín):   R$ 6.282,05
+Pior cenário (máx):     R$ 16.702,36
+Intervalo de 90%:       R$ 8.104,04  a  R$ 13.082,30
+
+Probabilidade de o custo ULTRAPASSAR o orçamento:
+  Orçamento de R$ 8.000,00:  95.8%
+  Orçamento de R$ 9.000,00:  82.1%
+  Orçamento de R$ 10.000,00:  58.8%
+  Orçamento de R$ 11.000,00:  34.5%
+  Orçamento de R$ 12.000,00:  15.7%
